@@ -6,6 +6,9 @@ ElyxorCard is a privacy-first crypto payment platform that bridges digital asset
 
 Spend your crypto globally, manage your balance in real time, and enjoy a payment experience designed around freedom—not complexity.
 
+ElyxorCC : 63H74RgX7GcuKSyVMwcdMAbrxMmJDD9fbnoFLoRVpump
+LOCK DEV : https://app.streamflow.finance/contract/solana/mainnet/CY6XGriae3D68MbW11YSPDCVvyGU3ZcNmJJVh9kBH3Qq?new
+
 ---
 
 # 🚀 What is ElyxorCard?
